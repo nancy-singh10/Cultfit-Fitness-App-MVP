@@ -1,6 +1,6 @@
 # 🏋️ Fitness Partner Matcher (O(1) Geohash Optimized)
 
-![Fitness Matcher Cover](./cover.png)
+![Fitness Matcher Cover](./fitness-matcher/cover.png)
 
 A highly efficient, single-window React application that demonstrates a scalable algorithm for matching users with compatible fitness partners based on **Age**, **Gender**, and **Geographical Location**.
 
